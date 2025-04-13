@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="1735216683116.jpg" alt="Banner" width="100%" />
+  <img src="Black and Blue Animated Gamer Twitch Banner.gif" alt="Banner" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Nagaraj</h1>
 <h3 align="center">An Aspiring Full Stack Developer & College Student</h3>
