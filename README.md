@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/nagarajyuvz/nagarajyuvz/blob/main/image.png" alt="Banner" width="100%" />
+  <img src="https://github.com/nagarajyuvz/nagarajyuvz/blob/main/Black and Gray Minimalist LinkedIn Banner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nagaraj</h1>
