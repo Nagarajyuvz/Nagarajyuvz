@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Download linkedin banner for technology company for free.jpg" alt="Banner" width="100%" />
+  <img src="Nagaraj M (1).png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nagaraj</h1>
