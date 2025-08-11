@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Nagaraj M</h1>
-<h3 align="center">🚀 Full-Stack Developer | 🌐 Web Enthusiast | 🛠️ Tech Explorer</h3>
+<h3 align="center">🚀 Software Engineer | 🌐 Web Enthusiast | 🛠️ Tech Explorer</h3>
 
 <p align="center">
   <a href="https://nagaj-portfolio.framer.website/" target="_blank">
