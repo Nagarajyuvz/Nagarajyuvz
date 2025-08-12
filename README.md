@@ -1,4 +1,4 @@
-<!-- Banner -->![programmer-night](https://github.com/user-attachments/assets/7f1005e7-5e33-4aeb-9084-4e8c34ba8251)
+
 
 <p align="center">
   <img src="Nagaraj M (1).png" alt="Nagaraj M Banner" width="100%" />
