@@ -1,58 +1,73 @@
-
-
 <p align="center">
-  <img src="Nagaraj M (1).png" alt="Nagaraj M Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20I'm%20Nagaraj%20M&fontSize=40&fontAlignY=35&desc=Software%20Engineer%20|%20Web%20Enthusiast%20|%20Tech%20Explorer&descAlignY=55"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Nagaraj M</h1>
-<h3 align="center">🚀 Software Engineer | 🌐 Web Enthusiast | 🛠️ Tech Explorer</h3>
+---
+
+## 👋 About Me  
+
+🚀 **Software Engineer** passionate about building impactful web applications  
+🌐 Focused on **modern web & backend development**  
+🛠️ Love exploring new tools and technologies  
+
+- 🔭 Currently working on **Local Service Finder** & **Food Charity Platform**
+- 🌱 Learning **Node.js, MongoDB & Backend Architecture**
+- 💡 Enjoy solving real-world problems with code
+- 💬 Ask me about **JavaScript, React, Node.js, Figma**
+- 🎯 Goal: Become a **creative & impactful Full-Stack Developer**
+
+---
+
+## 🔗 Connect With Me  
 
 <p align="center">
   <a href="https://nagaj-portfolio.framer.website/" target="_blank">
-    <img src="https://personal-portfolio-78pb.vercel.app/" />
+    <img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge"/>
   </a>
   <a href="mailto:mathiyalagumeenal@gmail.com">
-    <img src="https://img.shields.io/badge/📧 Email-me-red?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/📧 Email-D14836?style=for-the-badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/nagarajdev/">
-    <img src="https://img.shields.io/badge/🔗 LinkedIn-nagarajdev-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/nagarajdev/" target="_blank">
+    <img src="https://img.shields.io/badge/🔗 LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
 ---
 
-### 🧠 About Me
-- 🔭 I’m currently working on **Local Service Finder** & **Food Charity Platform**
-- 🌱 Learning Backend Development (Node.js & MongoDB)
-- 💡 Passionate about solving real-world problems with code
-- 💬 Ask me about **JavaScript, React, Node.js, Figma**
-- 🧰 Tech Stack: MERN | REST APIs | Git & GitHub | Figma & Canva
-- 🎯 Goal: Become a creative and impactful full-stack developer
-
----
-
-### ⚒️ Tools & Technologies
+## ⚒️ Tech Stack  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00c4cc?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,figma&theme=dark"/>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nagaraj-dev&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagaraj-dev&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nagaraj-dev&show_icons=true&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nagaraj-dev&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nagaraj-dev&layout=compact&theme=tokyonight" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagaraj-dev&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🚀 Projects Highlight  
+
+- 🛠 **Local Service Finder** – Connecting users with nearby service providers  
+- 🍽 **Food Charity Platform** – Reducing food waste by helping NGOs & donors  
+
+---
+
+## 💡 Fun Fact  
+
+> *“Good code is not written, it’s rewritten.”* ✨
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
