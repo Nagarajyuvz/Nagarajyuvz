@@ -1,73 +1,68 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20I'm%20Nagaraj%20M&fontSize=40&fontAlignY=35&desc=Software%20Engineer%20|%20Web%20Enthusiast%20|%20Tech%20Explorer&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=140&section=header&text=Nagaraj%20M&fontSize=42&fontColor=ffffff&fontAlignY=50&desc=Software%20Engineer%20|%20Web%20Developer&descAlignY=72&descSize=16"/>
 </p>
 
 ---
 
-## 👋 About Me  
+## About
 
-🚀 **Software Engineer** passionate about building impactful web applications  
-🌐 Focused on **modern web & backend development**  
-🛠️ Love exploring new tools and technologies  
+I am a **Software Engineer** focused on building reliable, scalable, and user-centric web applications.  
+I enjoy working across the stack and continuously improving code quality, performance, and design.
 
-- 🔭 Currently working on **Local Service Finder** & **Food Charity Platform**
-- 🌱 Learning **Node.js, MongoDB & Backend Architecture**
-- 💡 Enjoy solving real-world problems with code
-- 💬 Ask me about **JavaScript, React, Node.js, Figma**
-- 🎯 Goal: Become a **creative & impactful Full-Stack Developer**
+- Currently working on **Local Service Finder** and **Food Charity Platform**
+- Learning **backend systems, APIs, and database design**
+- Interested in **clean architecture and real-world problem solving**
+- Goal: Grow into a **strong full-stack engineer**
 
 ---
 
-## 🔗 Connect With Me  
+## Links
 
 <p align="center">
-  <a href="https://nagaj-portfolio.framer.website/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge"/>
+  <a href="https://personal-portfolio-78pb.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square"/>
   </a>
   <a href="mailto:mathiyalagumeenal@gmail.com">
-    <img src="https://img.shields.io/badge/📧 Email-D14836?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Email-1f2937?style=flat-square"/>
   </a>
   <a href="https://www.linkedin.com/in/nagarajdev/" target="_blank">
-    <img src="https://img.shields.io/badge/🔗 LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-1e40af?style=flat-square"/>
   </a>
 </p>
 
 ---
 
-## ⚒️ Tech Stack  
+## Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,figma&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,figma&theme=light"/>
 </p>
 
 ---
 
-## 📈 GitHub Stats  
+## Selected Projects
+
+**Local Service Finder**  
+Web platform to connect users with nearby service providers based on location and category.
+
+**Food Charity Platform**  
+Application aimed at reducing food waste by enabling donations to NGOs and communities.
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nagaraj-dev&show_icons=true&theme=tokyonight"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nagaraj-dev&theme=tokyonight"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=nagaraj-dev&show_icons=true&hide_border=true&theme=graywhite"/>
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=nagaraj-dev&hide_border=true&theme=graywhite"/>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagaraj-dev&layout=compact&theme=tokyonight"/>
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagaraj-dev&layout=compact&hide_border=true&theme=graywhite"/>
 </p>
 
 ---
 
-## 🚀 Projects Highlight  
-
-- 🛠 **Local Service Finder** – Connecting users with nearby service providers  
-- 🍽 **Food Charity Platform** – Reducing food waste by helping NGOs & donors  
-
----
-
-## 💡 Fun Fact  
-
-> *“Good code is not written, it’s rewritten.”* ✨
-
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <sub>Clean code • Consistent learning • Practical impact</sub>
 </p>
