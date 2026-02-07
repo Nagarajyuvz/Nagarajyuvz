@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://nagaj-portfolio.framer.website/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-nagaraj--portfolio.framer.website-blue?style=for-the-badge" />
+    <img src="https://personal-portfolio-78pb.vercel.app/" />
   </a>
   <a href="mailto:mathiyalagumeenal@gmail.com">
     <img src="https://img.shields.io/badge/📧 Email-me-red?style=for-the-badge" />
