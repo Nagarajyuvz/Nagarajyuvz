@@ -50,18 +50,16 @@ An application aimed at reducing food waste by enabling efficient food donations
 
 ---
 
-## 📊 GitHub Activity
+### 📈 GitHub Stats
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=nagaraj-dev&show_icons=true&hide_border=true&theme=graywhite"/>
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=nagaraj-dev&hide_border=true&theme=graywhite"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nagaraj-dev&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagaraj-dev&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagaraj-dev&layout=compact&hide_border=true&theme=graywhite"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nagaraj-dev&layout=compact&theme=tokyonight" />
 </p>
-
----
 
 <p align="center">
   <sub><strong>Clean code</strong> • <strong>Consistent learning</strong> • <strong>Real-world impact</strong></sub>
