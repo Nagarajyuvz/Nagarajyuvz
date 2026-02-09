@@ -1,14 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=170&section=header&text=Nagaraj%20M&fontSize=44&fontColor=ffffff&fontAlignY=45"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=3500&pause=800&color=0F172A&center=true&vCenter=true&width=600&lines=Nagaraj+M;Software+Engineer;Building+Scalable+Web+%26+Backend+Systems"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Software+Engineer;Scalable+Web+%26+Backend+Systems;Clean+Architecture+%7C+Real-World+Impact"/>
 </p>
 
 <p align="center">
-  <sub><strong>Engineering scalable fintech systems for real-world impact</strong></sub>
+  <sub><strong style="color:#e5e7eb;">Engineering scalable fintech systems for real-world impact</strong></sub>
 </p>
+
 
 ## 👋 About Me
 
